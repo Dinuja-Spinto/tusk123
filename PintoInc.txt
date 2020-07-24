@@ -4,6 +4,7 @@ Pinto Cooparation
 Pinto Inc
 
 
+
 Pinto Gaming
 
 Pinto Moblie solution
@@ -14,3 +15,6 @@ Pinto Computers
 
 
 done merge
+
+final 
+
